@@ -6,7 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-  background-color: blue; 
+background-image: url("images/shea-rouda-Ete0zMKPWys-unsplash.jpg");
 }
 /* navbar section */
 .navbar{
@@ -40,8 +40,7 @@ body{
     /* border:1px solid white; */
     align-items: center;
     position: absolute;
-    top: 30%;
-    right: 10%;
+
 }
 .heading{
     font-family: century;
@@ -57,6 +56,7 @@ body{
     padding: 20px;
     box-sizing: border-box;
     background-color: aquamarine;
-    align-items: center;
+    align-items: center; 
+    padding: 60rem;
 }
 
